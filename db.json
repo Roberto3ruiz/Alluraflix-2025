@@ -1,0 +1,400 @@
+{
+  "categoria": [
+    {
+      "descripcion": "Videos de la categoría frontend 💙",
+      "nombre": "frontend",
+      "color": "#6BD1FF",
+      "id": "25"
+    },
+    {
+      "descripcion": "esta es la categoría de WordPress 🦉",
+      "nombre": "wordpress",
+      "color": "#FFBA05",
+      "id": "26"
+    },
+    {
+      "id": "3256",
+      "nombre": "WSL",
+      "color": "#00C86F",
+      "descripcion": "Esta es una descripcion de la categoria"
+    },
+    {
+      "id": "256565",
+      "nombre": "alura",
+      "color": "#7b00e0",
+      "descripcion": "Esta es una descripcion de la categoria"
+    },
+    {
+      "descripcion": "Videos de React 🐣",
+      "nombre": "React",
+      "color": "#00ffd5",
+      "id": "59804be1-bb35-426b-8db8-42fe3a2b52dc"
+    },
+    {
+      "descripcion": "Categoria para los videos de css",
+      "nombre": "CSS",
+      "color": "#ff0000",
+      "id": "be3535fe-da7a-4f44-ba25-1bdacf2bb0d9"
+    }
+  ],
+  "videos": [
+    {
+      "id": "1",
+      "title": "7 cosas que debes saber para ser programador frontend este 2023 ",
+      "metadescription": "HolaMundo",
+      "categoria": {
+        "nombre": "frontend",
+        "color": "#6BD1FF"
+      },
+      "img": "q0UgClC8md4",
+      "embedId": "q0UgClC8md4"
+    },
+    {
+      "id": "2",
+      "title": "Nuevas mejoras en  FIGMA",
+      "metadescription": "Hemos realizado tres mejoras en los ajustes preestablecidos de marcos en UI3 para que puedas comenzar a diseñar más rápido:",
+      "categoria": {
+        "nombre": "frontend",
+        "color": "#6BD1FF"
+      },
+      "img": "xf9oTpeoZYQ",
+      "embedId": "xf9oTpeoZYQ"
+    },
+    {
+      "id": "3",
+      "title": "FRAMER GRATIS vs PRO: Descubre qué PLAN te CONVIENE MÁS",
+      "metadescription": "¿Estás pensando en suscribirte a Framer pero no sabes cuál plan elegir? En este video, te explico cada uno de los planes de Framer, sus características y beneficios, para que elijas el que mejor se adapte a tus necesidades como diseñador o emprendedor. Conoce todas las diferencias y aprovecha al máximo esta herramienta de diseño web.",
+      "categoria": {
+        "nombre": "frontend",
+        "color": "#6BD1FF"
+      },
+      "img": "Wkg-_vU6UUs",
+      "embedId": "Wkg-_vU6UUs"
+    },
+    {
+      "id": "4",
+      "title": "Como Subir tu proyecto React a Hostinger",
+      "metadescription": "En este video tutorial, detallaremos los pasos necesarios para subir tu proyecto React a Hostinger de forma clara y completa",
+      "categoria": {
+        "nombre": "frontend",
+        "color": "#6BD1FF"
+      },
+      "img": "l12jGQGQYag",
+      "embedId": "l12jGQGQYag"
+    },
+    {
+      "id": "5",
+      "title": "FAKE API ",
+      "metadescription": "En este video tutorial, detallaremos los pasos necesarios para subir tu proyecto React a Hostinger de forma clara y completa",
+      "categoria": {
+        "nombre": "frontend",
+        "color": "#6BD1FF"
+      },
+      "img": "1xcKP__PxsY",
+      "embedId": "1xcKP__PxsY"
+    },
+    {
+      "id": "6",
+      "title": "Curso de wordpress COMPLETO",
+      "metadescription": "Es actual, arranca de cero y está basado en un proyecto real.",
+      "categoria": {
+        "nombre": "wordpress",
+        "color": "#FFBA05"
+      },
+      "img": "NZIDCoO6ySE",
+      "embedId": "NZIDCoO6ySE"
+    },
+    {
+      "id": "7",
+      "title": "Está obsoleto wordpress?",
+      "metadescription": "El futuro de Wordpress este 2025",
+      "categoria": {
+        "nombre": "wordpress",
+        "color": "#FFBA05"
+      },
+      "img": "XEa6a2iAb-E",
+      "embedId": "XEa6a2iAb-E"
+    },
+    {
+      "id": "8",
+      "title": "Wordpress Quick Start Guide",
+      "metadescription": "Learn how to set up a WordPress website",
+      "categoria": {
+        "nombre": "wordpress",
+        "color": "#FFBA05"
+      },
+      "img": "M01nLhK4dPk",
+      "embedId": "M01nLhK4dPk"
+    },
+    {
+      "id": "9",
+      "title": "YA NO hago Páginas Web con Elementor WordPress",
+      "metadescription": "Explico las razones por las que no me conviene seguir usando Elementor.",
+      "categoria": {
+        "nombre": "wordpress",
+        "color": "#FFBA05"
+      },
+      "img": "AdIN0iELeuk",
+      "embedId": "AdIN0iELeuk"
+    },
+   
+    {
+      "id": "11",
+      "title": "Linux en Windows y Windows en linux",
+      "metadescription": "Con este curso aprenderás a preparar tu equipo con las herramientas necesarias para empezar a programar o comenzar a aprender.\n \n  Vamos a hacer las configuraciones necesarias para que puedas crear un proyecto sin mayores obstáculos. \n \nTambién aprenderás a moverte en la terminal. este es un curso para principiantes 🐣",
+      "categoria": {
+        "nombre": "WSL",
+        "color": "#00C86F"
+      },
+      "img": "Qy44XLpiChc",
+      "embedId": "Qy44XLpiChc"
+    },
+    {
+      "id": "12",
+      "title": "Instalar Ubuntu en Windows 10 con WSL",
+      "metadescription": "cómo instalar Ubuntu con WSL en Windows 10",
+      "categoria": {
+        "nombre": "WSL",
+        "color": "#00C86F"
+      },
+      "img": "L4f1XHrSJEg",
+      "embedId": "L4f1XHrSJEg"
+    },
+    {
+      "id": "13",
+      "title": "BEST Web Dev Setup? Windows & Linux at the same time",
+      "metadescription": "Setup the ultimate Web Development environment with Windows and Linux",
+      "categoria": {
+        "nombre": "WSL",
+        "color": "#00C86F"
+      },
+      "img": "-atblwgc63E",
+      "embedId": "-atblwgc63E"
+    },
+    {
+      "id": "14",
+      "title": "Instalar Ubuntu en Windows 10 con WSL",
+      "metadescription": "¿Necesitas tener un entorno #linux en #Windows sin una máquina virtual o dual boot? #WSL viene al rescate.\n\nEn este vídeo veremos cómo instalar Ubuntu con WSL en Windows 10, además, veremos algunos comandos útiles que seguro te ayudan en caso de tener problemas durante la instalación de WSL en tu máquina",
+      "categoria": {
+        "nombre": "WSL",
+        "color": "#00C86F"
+      },
+      "img": "L4f1XHrSJEg",
+      "embedId": "L4f1XHrSJEg"
+    },
+   
+    {
+      "id": "16",
+      "title": "¿Qué es JavaScript?",
+      "metadescription": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? \n\n Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips.",
+      "categoria": {
+        "nombre": "alura",
+        "color": "#7b00e0"
+      },
+      "img": "GJfOSoaXk4s",
+      "embedId": "GJfOSoaXk4s"
+    },
+    {
+      "id": "17",
+      "title": "Equipo Front End #AluraMás",
+      "metadescription": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? \n\nGenesys y Gabriela nos hablan exactamente de esto en este Alura Tips.",
+      "categoria": {
+        "nombre": "alura",
+        "color": "#7b00e0"
+      },
+      "img": "rpvrLaBQwgg",
+      "embedId": "1gUCu2e_JiM"
+    },
+    {
+      "id": "18",
+      "title": "¿Cómo ser un Profesional en T? Conociendo al Tech Guide",
+      "metadescription": "El término profesional en T es muy utilizado en los días de hoy, pero ¿sabes que quiere decir y cómo ser un profesional en T? \n\nEn este video Christian Velasco, Head de Alura Latam, no ayudará a enteder sobre ese término y nos explicará como podemos convertirnos en un profesional en T, enseñándonos una herramienta muy válida para quienes quiere aprender más al respecto.",
+      "categoria": {
+        "nombre": "alura",
+        "color": "#7b00e0"
+      },
+      "img": "0udk1vXmwkc",
+      "embedId": "0udk1vXmwkc"
+    },
+    {
+      "id": "19",
+      "title": "Videos alura",
+      "metadescription": "frontend team",
+      "categoria": {
+        "nombre": "alura",
+        "color": "#7b00e0"
+      },
+      "img": "UuAX5azcvDQ",
+      "embedId": "UuAX5azcvDQ"
+    },
+    {
+      "id": "20",
+      "title": "Videos alura",
+      "metadescription": "frontend team",
+      "categoria": {
+        "nombre": "alura",
+        "color": "#7b00e0"
+      },
+      "img": "PlaQ913yggM",
+      "embedId": "PlaQ913yggM"
+    },
+    
+
+    {
+      "title": "Las 6 maneras de aplicar estilos CSS en React",
+      "embedId": "J-hGXVPyT-Y",
+      "img": "J-hGXVPyT-Y",
+      "categoria": {
+        "nombre": "React",
+        "color": "#00ffd5"
+      },
+      "metadescription": "- Requisitos: Ninguno/n/n\n- Dificultad: Fácil/n/n\n- Recomendación: El peor/n/n\n- Ojo con: Estilos en línea son una mala idea 100pre :v.",
+      "id": "39121aa7-a7ff-4435-87fe-4176d068ac86"
+    },
+    {
+      "title": "useContext en 20 minutos",
+      "embedId": "Ae33_gdJgnQ",
+      "img": "Ae33_gdJgnQ",
+      "categoria": {
+        "nombre": "React",
+        "color": "#00ffd5"
+      },
+      "metadescription": "Aprende a usar el useContext Hook y cómo gestiona de manera efectiva el estado global de tus aplicaciones en Reactjs.",
+      "id": "ab2ae329-32b6-4f53-81d5-c1b9637dbe6b"
+    },
+   
+    {
+      "title": "Cupid",
+      "embedId": "FyKPsua6Br8",
+      "img": "FyKPsua6Br8",
+      "metadescription": "Yo y los Uwauuu Uwauuu",
+      "categoria": {
+        "nombre": "alura",
+        "color": "#7b00e0"
+      },
+      "id": "eee6556c-c527-4d1c-9755-e91d718c49ba"
+    },
+    {
+      "metadescription": "En este proyecto aprenderás a crear una aplicación web Frontend usando Rect, que te permitirá registrar tus gastos e ingresos, y podrás usarlo para poder obtener una especie de resumen de cuanto es lo que obtienes de balance, ademas de un grafico con mas información. \\n\\nAqui Vitejs para crear el proyecto, usaremos la API Context de React, LocalStorage y también algunos modulos utiles para poder practicar mas con esta biblioteca para crear interfaces web de usuario.",
+      "title": "React Aplicación para administrar gastos e ingresos",
+      "embedId": "zN6xXtHww54",
+      "img": "zN6xXtHww54",
+      "categoria": {
+        "nombre": "React",
+        "color": "#00ffd5"
+      },
+      "id": "55fb53e0-3444-476d-827f-60a6280650f1"
+    },
+    {
+      "metadescription": "React.js es una librería para crear interfaces web, con ella están construidas las dos redes sociales más grandes: Facebook e Instagram. En este video aprenderás las bases de esta librería.",
+      "title": "¿Qué es React.js y cómo funciona? - La mejor explicación en español",
+      "embedId": "lWQ69WX7-hA",
+      "img": "lWQ69WX7-hA",
+      "categoria": {
+        "nombre": "React",
+        "color": "#00ffd5"
+      },
+      "id": "98751bdc-d3e6-454e-b511-b22d14aa989f"
+    },
+    {
+      "metadescription": "HolaMundo",
+      "title": "¿Qué es React.js y cómo funciona? - La mejor explicación en español",
+      "embedId": "FyKPsua6Br8",
+      "img": "FyKPsua6Br8",
+      "categoria": {
+        "nombre": "React",
+        "color": "#00ffd5"
+      },
+      "id": "30e6f1bb-150b-497d-9546-509551336466"
+    },
+    {
+      "metadescription": "React",
+      "title": "¿Qué es React.js y cómo funciona? - La mejor explicación en español",
+      "embedId": "FyKPsua6Br8",
+      "img": "FyKPsua6Br8",
+      "categoria": {
+        "nombre": "React",
+        "color": "#00ffd5"
+      },
+      "id": "7dc12fed-fdc2-41f5-889e-753821f4f44e"
+    },
+    {
+      "metadescription": "sadsadASA",
+      "title": "¿Qué es React.js y cómo funciona? - La mejor explicación en español",
+      "embedId": "J-hGXVPyT-Y",
+      "img": "J-hGXVPyT-Y",
+      "categoria": {
+        "nombre": "React",
+        "color": "#00ffd5"
+      },
+      "id": "6b6ed56d-2864-4d7c-aebb-db92024bb799"
+    },
+    {
+      "metadescription": "Practica React con estos 5 proyectos completos donde vamos a construir aplicaciones o componentes usando hooks. \n\nEstos proyectos están hechos para que mejores tus habilidades con Javascript y repases conceptos importantes de React. #proyectos #reactjs #javascript #cursosgratis",
+      "title": "🔥 5 proyectos COMPLETOS en REACT JS",
+      "embedId": "oT-feDPuJmk",
+      "img": "oT-feDPuJmk",
+      "categoria": {
+        "nombre": "React",
+        "color": "#00ffd5"
+      },
+      "id": "a4ba537f-189f-429c-8b48-89dcde4165d1"
+    },
+    {
+      "metadescription": " Cafe punto Tech: ¿Por que las empresas buscan especialistas en Javascript?\n",
+      "title": " Cafe punto Tech: ¿Por que las empresas buscan especialistas en Javascript?",
+      "embedId": "1Nk2FfJFig2Y",
+      "img": "1Nk2FfJFig2Y",
+      "categoria": {
+        "nombre": "alura",
+        "color": "#7b00e0"
+      },
+      "id": "8c0c2d45-7363-46e6-870f-4d6cfe73e3e0"
+    },
+    {
+      "metadescription": "Curso COMPLETO de CSS desde Cero para convertirte en Desarrollador Front-End y puedas crear tus propias páginas web 💻 ",
+      "title": "CURSO DE CSS COMPLETO: De Principiante a Front-End 2024",
+      "embedId": "TlJbu0BMLaY",
+      "img": "TlJbu0BMLaY",
+      "categoria": {
+        "nombre": "CSS",
+        "color": "#ff0000"
+      },
+      "id": "e0dc5a20-f8fd-4c62-9dc2-df6c9b220e1c"
+    },
+    {
+      "metadescription": "Vamos a construir 20 proyectos completos con CSS, para que puedas practicar más del lenguaje y aprendas algunos trucos sobre animaciones, 3D, layouts, selectores avanzados y más. #css #tutoriales #desarrolloweb\n",
+      "title": "🔥 20 PROYECTOS COMPLETOS CON CSS",
+      "embedId": "XZTt1NFDnDw",
+      "img": "XZTt1NFDnDw",
+      "categoria": {
+        "nombre": "CSS",
+        "color": "#ff0000"
+      },
+      "id": "558ce7fa-87f3-4988-a6e3-3a7ce5125694"
+    },
+   
+    {
+      "metadescription": "Curso COMPLETO de CSS desde Cero para convertirte en Desarrollador Front-End y puedas crear tus propias páginas web 💻 ",
+      "title": "CURSO DE CSS COMPLETO: De Principiante a Front-End 2024",
+      "embedId": "TlJbu0BMLaY",
+      "img": "TlJbu0BMLaY",
+      "categoria": {
+        "nombre": "CSS",
+        "color": "#ff0000"
+      },
+      "id": "e0dc5a20-f8fd-4c62-9dc2-df6c9b220e1c"
+    },
+    {
+      "metadescription": "Vamos a construir 20 proyectos completos con CSS, para que puedas practicar más del lenguaje y aprendas algunos trucos sobre animaciones, 3D, layouts, selectores avanzados y más. #css #tutoriales #desarrolloweb\n",
+      "title": "🔥 20 PROYECTOS COMPLETOS CON CSS",
+      "embedId": "XZTt1NFDnDw",
+      "img": "XZTt1NFDnDw",
+      "categoria": {
+        "nombre": "CSS",
+        "color": "#ff0000"
+      },
+      "id": "558ce7fa-87f3-4988-a6e3-3a7ce5125694"
+    }
+  ]
+}
